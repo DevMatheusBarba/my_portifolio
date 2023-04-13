@@ -10,6 +10,7 @@ Olá, Bem vindo ao meu projeto de portfólio.
 </div>
 
 O **Meu portifolio** é uma plataforma que trás pra vocês uma visão de como ocorre a responsividade em diferentes tamanhos de telas
+e também pode conhecer um pouco mais sobre minha pessoa.
 
 
 
